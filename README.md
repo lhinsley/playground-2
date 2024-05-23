@@ -1,8 +1,6 @@
 # Playground 2
 
+<<<<<<< Updated upstream
 
-Playground 2 new changes
-changes
-new changes
-We add an extra line 
-creating a commit
+
+awetawet
